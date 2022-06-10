@@ -1,0 +1,4 @@
+queueMicrotask
+SVGAElement
+CSSStyleRule
+SVGAnimatedBoolean
